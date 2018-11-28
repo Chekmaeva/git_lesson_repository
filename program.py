@@ -1,2 +1,2 @@
 #I am author!
-print("Hello, python")
+print("My fitst Git program!!!")
